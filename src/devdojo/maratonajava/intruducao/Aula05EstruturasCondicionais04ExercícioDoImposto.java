@@ -1,6 +1,6 @@
 package devdojo.maratonajava.intruducao;
 
-public class ExercícioDoImposto {
+public class Aula05EstruturasCondicionais04ExercícioDoImposto {
     public static void main(String[] args) {
         double salario = 50000;
         double imposto1 = salario * (9.70 / 100);
