@@ -2,7 +2,24 @@ package devdojo.maratonajava.intruducao;
 
 public class Aula08ArraysMultidimensionais02 {
     public static void main(String[] args) {
-        // 4 linhas (alunos), 3 colunas (notas)
+        int[][] arrayInt = new int[3][];
+        int [] array = {1,2,3};
+
+        arrayInt[0] = new int[2];
+        arrayInt[1] = array;
+        arrayInt[2] = new int[]{1,2,3,4,5,6,};
+
+        int[][] arrayInt2 = {{0,0}, {1,2,3}, {1,2,3,4,5,6}};
+
+        for (int[] arrayBase : arrayInt2) {
+            System.out.println("\n-----");
+            for (int num : arrayBase) {
+                System.out.print(num + " ");
+            }
+        }
+    }
+}
+        /*// 4 linhas (alunos), 3 colunas (notas)
         double[][] notas = {
                 {8.0, 7.5, 9.0, 8.5}, // Aluno 0
                 {5.0, 6.0, 7.0, 4.9}, // Aluno 1
@@ -23,6 +40,8 @@ public class Aula08ArraysMultidimensionais02 {
         }
     }
 }
+
+         */
      /* int[][] nota = new int[5][5];
         int nota1 = 0;
         int nota2 = 0;
@@ -96,20 +115,6 @@ public class Aula08ArraysMultidimensionais02 {
 }
 
          */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         /*int[][] arrayInt = new int[3][];
         int [] array = {1,2,3};
 
