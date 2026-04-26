@@ -1,6 +1,6 @@
-package devdojo.maratonajava.javacore.Bintroducaoclasses.metodos.test;
+package devdojo.maratonajava.javacore.Bintroducaometodos.test;
 
-import devdojo.maratonajava.javacore.Bintroducaoclasses.metodos.dominio.Calculadora;
+import devdojo.maratonajava.javacore.Bintroducaometodos.dominio.Calculadora;
 
 public class CalculadoraTest02 {
     public static void main(String[] args) {
