@@ -8,11 +8,11 @@ public class Aula05EstruturasCondicionais04ExercícioDoImposto {
         double imposto3 = salario * (49.50 / 100);
 
         if (salario <= 34712){
-            System.out.println("Voce pagara: "+ imposto1+ "de imposto");
+            System.out.println("Voce pagara: "+ imposto1+ " de imposto");
         }else if (salario <= 68506) {
-            System.out.println("Voce pagara: "+imposto2+ "de imposto");
+            System.out.println("Voce pagara: "+imposto2+ " de imposto");
         }else {
-            System.out.println("Voce pagara: "+imposto3+ "de imposto");
+            System.out.println("Voce pagara: "+imposto3+ " de imposto");
         }
 
         /*double salario = 40000;
