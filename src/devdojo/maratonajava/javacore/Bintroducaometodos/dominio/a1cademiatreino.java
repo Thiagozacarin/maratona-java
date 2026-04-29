@@ -1,6 +1,6 @@
 package devdojo.maratonajava.javacore.Bintroducaometodos.dominio;
 
-public class Academia {
+public class a1cademiatreino {
     public String nome;
     public String exercicio;
     public int series;

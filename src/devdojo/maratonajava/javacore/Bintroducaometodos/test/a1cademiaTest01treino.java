@@ -1,14 +1,14 @@
 package devdojo.maratonajava.javacore.Bintroducaometodos.test;
 
-import devdojo.maratonajava.javacore.Bintroducaometodos.dominio.Academia;
+import devdojo.maratonajava.javacore.Bintroducaometodos.dominio.a1cademiatreino;
 
-public class AcademiaTest01 {
+public class a1cademiaTest01treino {
     public static void main(String[] args) {
-        Academia treino1 = new Academia();
-        Academia treino2 = new Academia();
-        Academia treino3 = new Academia();
-        Academia treino4 = new Academia();
-        Academia treino5 = new Academia();
+        a1cademiatreino treino1 = new a1cademiatreino();
+        a1cademiatreino treino2 = new a1cademiatreino();
+        a1cademiatreino treino3 = new a1cademiatreino();
+        a1cademiatreino treino4 = new a1cademiatreino();
+        a1cademiatreino treino5 = new a1cademiatreino();
 
         treino1.nome = "peito";
         treino1.exercicio = "voador";
