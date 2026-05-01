@@ -1,6 +1,6 @@
 package devdojo.maratonajava.javacore.Fmodificadoresestaticos.test;
 
-import devdojo.maratonajava.javacore.Fmodificadoresestaticos.domain.Carro;
+import devdojo.maratonajava.javacore.Fmodificadoresestaticos.dominio.Carro;
 
 public class CarroTest01 {
     public static void main(String[] args) {

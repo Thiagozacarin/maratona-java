@@ -1,8 +1,8 @@
 package devdojo.maratonajava.javacore.Aintroducaoclasses.dominio;
 
-public class Carro {
+public class Produtoexerc {
     public String nome;
-    public String modelo;
-    public int ano;
+    public double preco;
+    public int quantidade;
 
 }

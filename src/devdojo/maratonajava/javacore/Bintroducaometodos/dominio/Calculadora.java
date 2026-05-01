@@ -62,6 +62,10 @@ public class Calculadora {
         }
         System.out.println(soma);
     }
+
+    public void subtraiaDoisNumeros() {
+
+    }
 }
 
 
