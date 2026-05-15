@@ -1,6 +1,6 @@
 package devdojo.maratonajava.javacore.Csobrecargametodos.dominio;
 
-public class Anime {
+public class  Anime {
     private String nome;
     private String tipo;
     private int episodios;
